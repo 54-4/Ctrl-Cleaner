@@ -24,7 +24,7 @@ A powerful Windows system cleaner built in C# WPF (.NET 8), compiled into a sing
 - Minecraft font, red neon theme (#FF2222)
 - Real-time log box with color-coded output
 - Progress bar tracking all cleaning steps
-
+![CTRL Cleaner](screenshot.png)
 ---
 
 ## Build
