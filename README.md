@@ -1,3 +1,4 @@
+![Repo Unique Visits](https://views.whatilearened.today/views/github/54-4/Ctrl-Cleaner.svg)
 # CTRL Cleaner
 
 A powerful Windows system cleaner built in C# WPF (.NET 8), compiled into a single self-contained `.exe` with no external dependencies — not even the background video, which is embedded directly inside the binary.
